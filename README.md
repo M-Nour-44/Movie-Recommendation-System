@@ -74,14 +74,6 @@ Inception,Action Sci-Fi,dream heist,"Your mind is the scene of the crime","Leona
 - `release_date` gibi opsiyonel alanlar veri setinizde yoksa, kodda ilgili yerleri düzenleyebilirsiniz.
 - Daha fazla özellik eklemek isterseniz: kategoriye göre filtreleme, IMDb puanı gibi alanları da kullanabilirsiniz.
 
-## 👨‍💻 Geliştirici
-
-- **Ihab Mahmoud**  
-- E-posta: _032190090@ogr.uludag.edu.tr_  
-- **ABDULRUHMAN KATIA**  
-- E-posta: _032290149@ogr.uludag.edu.tr_  
-- **MOHAMAD NOUR ALMASRI**  
-- E-posta: _032390142@ogr.uludag.edu.tr_  
 
 ---
 
